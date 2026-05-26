@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Gurubashi Timer
+## Notes: Countdown and alarm for Gurubashi Arena chest spawns.
+## Author: Jay & Nubblet
+## Version: 0.2
+## SavedVariables: GurubashiTimerDB
+
+GurubashiTimer.lua
